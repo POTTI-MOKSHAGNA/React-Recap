@@ -65,7 +65,7 @@ counter/
 Clone the repository:
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/POTTI-MOKSHAGNA/React-Recap.git/counter
 ```
 
 Move into the project folder:

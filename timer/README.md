@@ -1,70 +1,113 @@
-# Getting Started with Create React App
+# Timer & Stopwatch ⏱️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Timer & Stopwatch is a React application that combines two commonly used time-tracking utilities into a single project.
 
-In the project directory, you can run:
+The application was built to practice React fundamentals, including state management, component organization, event handling, and interval-based functionality.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Stopwatch
 
-### `npm test`
+* Start stopwatch
+* Pause stopwatch
+* Reset stopwatch
+* Real-time elapsed time tracking
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Timer
 
-### `npm run build`
+* Countdown timer functionality
+* Start timer
+* Pause timer
+* Reset timer
+* Dynamic time updates
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* React
+* JavaScript
+* HTML
+* CSS
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Concepts Practiced
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Functional Components
+* useState Hook
+* useEffect Hook
+* Event Handling
+* State Updates
+* setInterval & clearInterval
+* Component Reusability
+* Timer Logic
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Project Structure
 
-## Learn More
+```text
+src/
+├── components/
+│   ├── StopWatch/
+│   └── Timer/
+├── App.js
+├── App.css
+└── index.js
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Learning Outcomes
 
-### Code Splitting
+Through this project, I gained practical experience in:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* Managing time-based operations in React
+* Working with intervals and cleanup functions
+* Updating UI based on state changes
+* Structuring React applications using reusable components
+* Handling user interactions effectively
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Challenges
 
-### Making a Progressive Web App
+* Managing multiple intervals correctly
+* Preventing duplicate timer execution
+* Implementing pause and reset functionality
+* Maintaining accurate state updates
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Future Enhancements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* Custom timer duration input
+* Lap tracking for stopwatch
+* Sound notification when timer ends
+* Local storage persistence
+* Improved UI and animations
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Getting Started
 
-### `npm run build` fails to minify
+```bash
+git clone https://github.com/POTTI-MOKSHAGNA/React-Recap.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+cd timer
+
+npm install
+
+npm start
+```
+
+---
+
+## Author
+
+**P Mokshagna**

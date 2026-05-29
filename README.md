@@ -1,86 +1,84 @@
-# Comeback Coding Journey 🚀
+# React Recap ⚛️
 
 ## Overview
 
-This repository represents my comeback journey in programming and development.
+React Recap is a collection of React projects built as part of my revision and practice journey. The goal of this repository is to strengthen core React concepts through hands-on implementation rather than passive learning.
 
-Instead of learning privately, I decided to document everything publicly through projects, experiments, practice code, and continuous improvement.
-
-The purpose of this repository is to:
-
-* Rebuild consistency
-* Improve development skills
-* Learn Git and GitHub properly
-* Track progress through real projects
-* Create public proof of learning
-
-This repository will continue growing as I revisit concepts, build projects, solve problems, and improve my workflow.
+Each project focuses on specific React fundamentals such as state management, component structure, event handling, hooks, and UI interactions.
 
 ---
 
-## Why This Repository Exists
+## Why This Repository?
 
-Most repositories only showcase polished projects.
+Learning React is not just about watching tutorials—it's about building.
 
-This repository is different.
+This repository serves as:
 
-It contains:
+* A React revision hub
+* A collection of mini-projects
+* A record of my learning progress
+* A place to experiment with React concepts
+* A reference for future projects
 
-* Learning attempts
-* Practice projects
-* Improvements over time
-* Mistakes and fixes
-* Real development progress
-
-The goal is not perfection.
-
-The goal is consistency and growth.
+By rebuilding and practicing common applications, I reinforce fundamental concepts that are essential for larger real-world projects.
 
 ---
 
-## Current Focus Areas
+## Technologies Used
 
-* HTML
-* CSS
-* JavaScript
 * React
-* Git & GitHub
-* Problem Solving
-* Project Building
+* JavaScript (ES6+)
+* HTML5
+* CSS3
 
 ---
 
-## Projects Included
+## Projects
 
-| Project     | Description                                                                         |
-| ----------- | ----------------------------------------------------------------------------------- |
-| Counter App | Simple React counter application with increment, decrement, and reset functionality |
+### Counter App
 
-More projects will be added as the journey continues.
+A simple counter application demonstrating React state management and event handling.
 
----
+### Timer & Stopwatch
 
-## Learning Philosophy
+An application that combines countdown timer and stopwatch functionalities to practice state updates, intervals, and component organization.
 
-* Learn by building
-* Learn publicly
-* Improve daily
-* Focus on fundamentals
-* Stay consistent
+More React practice projects will be added as I continue revising and improving my skills.
 
 ---
 
-## Goals
+## Concepts Covered
 
-* Become a strong web developer
-* Master Git and GitHub workflows
-* Build professional projects
+* Functional Components
+* React Hooks
+* useState
+* useEffect
+* Event Handling
+* Conditional Rendering
+* Component Reusability
+* State Management
+* Timer and Interval Logic
+
+---
+
+## Objectives
+
+* Strengthen React fundamentals
+* Build consistency through practice
 * Improve problem-solving skills
-* Maintain long-term consistency
+* Create reusable React components
+* Gain confidence in frontend development
+
+---
+
+## Repository Link
+
+GitHub: https://github.com/POTTI-MOKSHAGNA/React-Recap
 
 ---
 
 ## Author
 
-P Mokshagna
+**P Mokshagna**
+
 B.Tech 3rd Year | VIT AP University

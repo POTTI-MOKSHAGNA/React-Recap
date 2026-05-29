@@ -52,7 +52,11 @@ function Timer(){
             <ul>
             {
                 l.map(li => 
-                <button type = "button" onClick={() => setTimer(li)} key={li}>{li}</button>
+                    <li key={li}>
+                        <button type = "button" onClick={() => setTimer(li)}>
+                            {li}
+                        </button>
+                    </li>
                 )
             }
             </ul>

@@ -2,25 +2,23 @@
 
 ## Overview
 
-React Recap is a collection of React projects built as part of my revision and practice journey. The goal of this repository is to strengthen core React concepts through hands-on implementation rather than passive learning.
+React Recap is a collection of React projects built to strengthen my understanding of React through hands-on practice.
 
-Each project focuses on specific React fundamentals such as state management, component structure, event handling, hooks, and UI interactions.
+Instead of only learning concepts theoretically, this repository focuses on implementing them through real projects. Each project helps me revise core React concepts, improve problem-solving skills, and gain practical development experience.
 
 ---
 
 ## Why This Repository?
 
-Learning React is not just about watching tutorials—it's about building.
-
 This repository serves as:
 
 * A React revision hub
 * A collection of mini-projects
-* A record of my learning progress
+* A record of my learning journey
 * A place to experiment with React concepts
-* A reference for future projects
+* A portfolio of continuous improvement
 
-By rebuilding and practicing common applications, I reinforce fundamental concepts that are essential for larger real-world projects.
+The goal is simple: learn React by building.
 
 ---
 
@@ -35,45 +33,84 @@ By rebuilding and practicing common applications, I reinforce fundamental concep
 
 ## Projects
 
-### Counter App
+### Counter App 🔢
 
 A simple counter application demonstrating React state management and event handling.
 
-### Timer & Stopwatch
+**Concepts Practiced**
 
-An application that combines countdown timer and stopwatch functionalities to practice state updates, intervals, and component organization.
-
-More React practice projects will be added as I continue revising and improving my skills.
+* useState
+* Event Handling
+* State Updates
+* Component Rendering
 
 ---
 
-## Concepts Covered
+### Timer & Stopwatch ⏱️
+
+A project that combines countdown timer and stopwatch functionalities.
+
+**Concepts Practiced**
+
+* useState
+* useEffect
+* setInterval
+* Component Organization
+* Timer Logic
+
+---
+
+### TaskFlow ✅
+
+A task management application built to practice CRUD-like interactions and state-driven UI updates.
+
+**Features**
+
+* Add Tasks
+* Mark Tasks as Completed
+* Delete Tasks
+* Dynamic Task List Updates
+
+**Concepts Practiced**
+
+* React State Management
+* Component Reusability
+* List Rendering
+* User Interaction Handling
+* Conditional Rendering
+
+---
+
+## React Concepts Covered
 
 * Functional Components
-* React Hooks
 * useState
 * useEffect
 * Event Handling
 * Conditional Rendering
-* Component Reusability
+* List Rendering
 * State Management
-* Timer and Interval Logic
+* Component Reusability
+* Timer Logic
+* Form Handling
 
 ---
 
-## Objectives
+## Learning Philosophy
 
-* Strengthen React fundamentals
-* Build consistency through practice
-* Improve problem-solving skills
-* Create reusable React components
-* Gain confidence in frontend development
+> Build → Break → Fix → Learn → Repeat
+
+The best way to learn React is by building projects consistently.
 
 ---
 
-## Repository Link
+## Future Projects
 
-GitHub: https://github.com/POTTI-MOKSHAGNA/React-Recap
+* Weather App
+* Expense Tracker
+* Notes App
+* Quiz Application
+* Movie Search App
 
 ---
 

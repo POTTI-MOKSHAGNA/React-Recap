@@ -18,7 +18,7 @@ function EditNote(props) {
                 <textarea value={content} onChange={(e) => setContent(e.target.value)}></textarea>
                 <br/>
                 <br/>
-                <button type="button" onClick={() => {onSave({ title, content });
+                <button type="button" onClick={() => {onSave({id, title, content });
             navigate('/'); }}>Save</button>
             </form>
         </div>
